@@ -1,2 +1,6 @@
-# SRINATH
-StyleCut – Premium Grooming Studio  StyleCut is a modern premium grooming studio offering professional haircuts, beard grooming, and facial treatments for men. Our website makes it easy for customers to explore our services, check prices, view our grooming gallery, and pre-book an appointment online. 
+# ASKANISRINATH
+👨‍💻 Software Developer | Web Developer | Problem Solver
+🚀 Building modern, scalable & user-focused applications
+💻 Full-Stack Development | JavaScript | Python | React | Node.js
+🧠 Passionate about clean code, learning new technologies & solving real-world problems
+📚 Always learning. Always building.
